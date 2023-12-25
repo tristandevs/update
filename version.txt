@@ -1,2 +1,1 @@
-1
-https://newurl.com/download
+0.1
